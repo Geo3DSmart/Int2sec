@@ -201,7 +201,7 @@ After downloading the data, please put the data in the following structure:
 ## Citation
 If you find Int2sec useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```shell
-@inproceedings{tang2024int2sec,
+@article{tang2024int2sec,
   title={A Multi-Scene Roadside Lidar Benchmark towards Digital Twins of Road Intersections},
   author={Miao Tang, Dianyu Yu, Peiguang Li, Chengwen Song, Pu Zhao, Wen Xiao, Nengcheng Chen},
   booktitle={ISPRS TCIV 2024},
