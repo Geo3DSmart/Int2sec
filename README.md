@@ -211,6 +211,6 @@ If you find Int2sec useful in your research or applications, please consider giv
 
 ## Acknowledgment
 - [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
-
+- [SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS)
 
 Sincere appreciation for their great contributions.
