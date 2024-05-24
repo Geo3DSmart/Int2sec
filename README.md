@@ -14,8 +14,8 @@ This is the official implementation of ISPRS TCIV 2024 paper. "A Multi-Scene Roa
 - [Acknowledgment](#acknowledgment)
 
 ## Data Download
-Please download the dataset and pretrained models from [Baidu Netdisk](https://pan.baidu.com/).
-
+Our dataset is freely available to researchers. Please download and sign our [agreement]([https://drive.google.com/file/d/1Da3Rvf78989b2-PQKDbHsMb5wUIz3FUp/view?usp=sharing](https://drive.google.com/file/d/1uGB5JPkyqn4XfyuBXjwIsZ1jqTgHRYnm/view)
+) and send it to the provided email address (yudianyu@outlook.com). You will receive the download link within one week.
 After downloading the data, please put the data in the following structure:
 ```shell
 ├── Int2sec-S-dataset
