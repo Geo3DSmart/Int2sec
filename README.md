@@ -1,5 +1,6 @@
-# A Multi-Scene Roadside Lidar Benchmark towards Digital Twins of Road Intersections
+# Int2sec: A Large-scale Roadside Dual-LiDAR Dataset
 
+![visualisation](figs/VIS.png)
 
 This is the official implementation of the Int2sec dataset, a large-scale roadside dual-LiDAR dataset.
 
