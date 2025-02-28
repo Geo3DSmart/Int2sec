@@ -1,6 +1,5 @@
 # Int2sec: A Large-scale Roadside Dual-Lidar Dataset
 
-![visualisation](figs/VIS.png)
 
 This is the official implementation of the Int2sec dataset, a large-scale roadside dual-lidar dataset.
 
